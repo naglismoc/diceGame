@@ -60,7 +60,7 @@ $cars = array (
   );
 // sukurtumėte puslapį "pirkinių sąrašas"
 // make it nice
-// puslapyje turi būti duomenų suvedimo forma su dviem laukeliais. pirkinys ir kategorija.
+// puslapyje turi būti duomenų suvedimo forma su dviem laukeliais. pirkinys ir kategorija. Forma = POST
 // įvestus duomenis saugokite sesijoje. $_SESSION['shop'][] = ['item' => 'obuoliai', 'category' => 'fruits'];
 // atvaizduoti prekių sąrašą.
 // jei prekių nėra - turi nemesti erorų. ir šiaip. JOKIŲ ERORRŲ! =)
